@@ -1,4 +1,7 @@
-{ 
-  "token"  : "NDYxOTUzNTk5NDI2MDAyOTU2.Dhb7EA.BDqCn8mDWo1G7dq7P98hdBvff0s",
-  "prefix" : "+"
+{
+  "ownerids": ["369256915479560192"],
+  "mainadmin": []
+  "donotAnnounce": [""],
+  "rotator": "yes",
+  "ubl": [""]
 }
